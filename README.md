@@ -1,5 +1,7 @@
 # MEDi
 
+AI-driven support? for the visually impaired
+
 ### Overview
 
 This is a camera app that can detect hand landmarks either from continuous camera frames seen by your device's front camera, an image, or a video from the device's gallery using a custom **task** file.
@@ -8,7 +10,7 @@ The task file is downloaded by a Gradle script when you build and run the app. Y
 
 This application should be run on a physical Android device to take advantage of the camera.
 
-## Build the demo using Android Studio
+## Build the demo app using Android Studio
 
 ### Prerequisites
 
