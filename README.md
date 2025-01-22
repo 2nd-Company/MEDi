@@ -56,7 +56,7 @@ managed automatically by the **download.gradle** file.
 ![GitHub last commit](https://img.shields.io/github/last-commit/stratumauth/app?style=flat)
 [![Crowdin](https://badges.crowdin.net/authenticator-pro/localized.svg)](https://crowdin.com/project/authenticator-pro)
 
-![Stratum](./doc/RebrandingMaterial/Wordmark.png)
+![MEDi](./doc/RebrandingMaterial/Wordmark.png)
 <br/><br/>
 
 A free open-source two factor authentication app for Android. It features encrypted backups, icons, categories and a high level of customisation. It also has a Wear OS companion app.
@@ -65,7 +65,6 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 
 ## Download ⬇️
 [<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">](https://play.google.com/store/apps/details?id=com.stratumauth.app)
-[<img alt="Get it on F-Droid" height="100" src="./doc/izzyondroid.png">](https://apt.izzysoft.de/fdroid/index/apk/com.stratumauth.app)
 
 > Stratum is currently only available on the F-Droid client through the [IzzyOnDroid repo](https://apt.izzysoft.de/fdroid/). You must first add this repository in the F-Droid client.
 
