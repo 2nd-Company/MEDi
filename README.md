@@ -7,7 +7,7 @@
 <div align="center">
   <h2>MEDi</h2>
 </div>
-<p align="center"><em>Using smart AI tech to make medication detection simple and accurate</em></p>
+<p align="center"><em>Dectecting Medications by AI-driven Computer Vision</em></p>
 
 ## About the Project
 Hello, we are a startup named **2nd Company**, creating an AI-driven platform designed to assist visually impaired individuals in safely and efficiently identifying pharmaceutical products in stores.
