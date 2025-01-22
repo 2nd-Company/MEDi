@@ -7,7 +7,6 @@
 <div align="center">
   <h2>MEDi</h2>
 </div>
-<br/><br/>
 
 ## About the Project
 Details
