@@ -71,7 +71,7 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 <!-- [GitHub License]: https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge -->
 [contributors-shield]: https://img.shields.io/github/contributors/2nd-Company/MEDi?style=for-the-badge&color=green
 [contributors-url]: https://github.com/2nd-Company/MEDi/contributors
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge 
+[license-shield]: https://img.shields.io/github/license/2nd-Company/Medi?style=for-the-badge
 [license-url]: https://github.com/2nd-Company/MEDi/blob/main/LICENSE 
 [linkedin-shield]: ./doc/Icon/Linkedin.png
 [github-surl]: https://github.com/junesjukim
