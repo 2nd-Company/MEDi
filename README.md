@@ -4,6 +4,9 @@
 <div align="center">
   <img src="./doc/Icon/logo.jpeg" alt="MEDi Logo" width="200">
 </div>
+<div align="center">
+  <h1>MEDi</h1>
+</div>
 <br/><br/>
 
 ## About the Project
