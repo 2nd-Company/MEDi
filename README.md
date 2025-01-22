@@ -1,7 +1,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/stratumauth/app?style=flat)
 
 
-![MEDi](./doc/icon/logo.jpeg)
+![MEDi](./doc/Icon/logo.jpeg)
 <br/><br/>
 >MEDi
 
