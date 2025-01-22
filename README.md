@@ -39,7 +39,6 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 <!-- CONTACT -->
 ## Contact
-[![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
 Sungjoo Kim - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
 
 Ethan Park - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
