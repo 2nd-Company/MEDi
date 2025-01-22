@@ -47,6 +47,14 @@ MEDi is currently having a beta testing process.
 
 Camera permission is required to proceed to the Medication Detection phase.
 
+<!-- CONTACT -->
+## License
+This repository has been created as a part of the ongoing development of the MEDi project.
+
+The work in this repository is licensed under the MIT license.
+
+Copyright (c) 2025 2nd Company
+
 
 <!-- CONTACT -->
 ## Contact
