@@ -31,16 +31,15 @@ MEDi is currently having a beta testing process.
 
 
 ## Screenshots 📱
-
-<div align="center">
-  <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250">
-  <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250">
-  <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250">
+<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+  <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250" style="margin: 10px;">
+  <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250" style="margin: 10px;">
+  <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250" style="margin: 10px;">
 </div>
-<div align="center">
-  <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250">
-  <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250">
-  <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250">
+<div align="center" style="background-color: #f5f5f5; padding: 20px; margin-top: 10px; border-radius: 10px;">
+  <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250" style="margin: 10px;">
+  <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250" style="margin: 10px;">
+  <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250" style="margin: 10px;">
 </div>
 <br/><br/>
 
