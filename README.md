@@ -50,7 +50,6 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_user
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: (./doc/Icon/Linkedin.png)
 [linkedin-surl]: https:// www.linkedin.com/in/sungjoo-kim-june777
 [linkedin-eurl]: https://www.linkedin.com/in/esjp/
