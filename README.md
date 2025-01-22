@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-![GitHub License](https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge)
+![GitHub License](https://github.com/2nd-Company/MEDi/blob/main/LICENSE)
 
 
 
@@ -68,7 +68,7 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[GitHub License]: https://github.com/2nd-Company/MEDi/blob/main/LICENSE
+[GitHub License]: https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge
 [contributors-shield]: https://img.shields.io/github/contributors/2nd-Company/MEDi?style=for-the-badge&color=green
 [contributors-url]: https://github.com/2nd-Company/MEDi/contributors
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge 
