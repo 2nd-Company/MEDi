@@ -7,7 +7,7 @@
 <div align="center">
   <h2>MEDi</h2>
 </div>
-Detecting Medications by AI-driven 
+<p align="center"><em>Using smart AI tech to make medication detection simple and accurate</em></p>
 
 ## About the Project
 Details
