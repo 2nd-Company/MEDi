@@ -9,13 +9,14 @@ MEDi
 Details
 
 ### Built With
-[![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
-[![Kotlin-l][Kotlin]][Kotlin-url]
+*[![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
+*[![Kotlin-l][Kotlin]][Kotlin-url]
 
 ## Download ⬇️
 [<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">]([https://play.google.com/store/apps/details?id=com.stratumauth.app](https://play.google.com/apps/testing/com.MedI))
 
 MEDi is currently having a beta testing process
+
 
 ## Screenshots 📱
 
@@ -27,6 +28,7 @@ MEDi is currently having a beta testing process
 ![Screenshot 6](./doc/Photo/Screenshot6.jpeg)
 <br/><br/>
 
+<!-- PERMISSIONS -->
 ## Permissions 🔒
 
 Camera permission is required to proceed to the Medication Detection phase.
@@ -41,8 +43,7 @@ Camera permission is required to proceed to the Medication Detection phase.
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+https://github.com/junesjukim
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
