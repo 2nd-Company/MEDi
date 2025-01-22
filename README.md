@@ -3,10 +3,10 @@
 
 ![MEDi](./doc/Icon/logo.jpeg)
 <br/><br/>
->MEDi
+MEDi
 
 ## About the Project
-> Details
+Details
 
 ### Built With
 [![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
@@ -15,7 +15,7 @@
 ## Download ⬇️
 [<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">]([https://play.google.com/store/apps/details?id=com.stratumauth.app](https://play.google.com/apps/testing/com.MedI))
 
-> MEDi is currently having a beta testing process
+MEDi is currently having a beta testing process
 
 ## Screenshots 📱
 
