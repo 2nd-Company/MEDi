@@ -35,9 +35,9 @@ Camera permission is required to proceed to the Medication Detection phase.
 <!-- CONTACT -->
 ## Contact
 
-Sungjoo Kim - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
+[Sungjoo Kim](https://github.com/junesjukim) - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
 
-Ethan Park - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
+[Ethan Park](https://github.com/ethansjpark) - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi)
 
@@ -47,6 +47,8 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: ./doc/Icon/Linkedin.png
+[github-surl]: https://github.com/junesjukim
+[github-eurl]: https://github.com/ethansjpark
 [linkedin-surl]: https://www.linkedin.com/in/sungjoo-kim-june777
 [linkedin-eurl]: https://www.linkedin.com/in/esjp/
 [TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
