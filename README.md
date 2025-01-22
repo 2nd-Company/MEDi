@@ -1,60 +1,21 @@
-![GitHub](https://img.shields.io/github/license/stratumauth/app?style=flat)
-![GitHub stars](https://img.shields.io/github/stars/stratumauth/app?style=flat)
 ![GitHub last commit](https://img.shields.io/github/last-commit/stratumauth/app?style=flat)
-[![Crowdin](https://badges.crowdin.net/authenticator-pro/localized.svg)](https://crowdin.com/project/authenticator-pro)
 
-![MEDi](./doc/RebrandingMaterial/Wordmark.png)
+
+![MEDi](./doc/icon/logo.jpeg)
 <br/><br/>
+>MEDi
 
-A free open-source two factor authentication app for Android. It features encrypted backups, icons, categories and a high level of customisation. It also has a Wear OS companion app.
+## About the Project
+> Details
 
-It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using either SHA1, SHA256 or SHA512 hashing algorithms. Mobile-Otp (mOTP), Steam and Yandex are also supported.
+### Built With
+* [![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
+* [![Kotlin-l][Kotlin]][Kotlin-url]
 
 ## Download ⬇️
-[<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">](https://play.google.com/store/apps/details?id=com.stratumauth.app)
+[<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">]([https://play.google.com/store/apps/details?id=com.stratumauth.app](https://play.google.com/apps/testing/com.MedI))
 
-> Stratum is currently only available on the F-Droid client through the [IzzyOnDroid repo](https://apt.izzysoft.de/fdroid/). You must first add this repository in the F-Droid client.
-
-## Support development ❤️
-[<img alt="Buy Me a Coffee" height="100" src="./doc/buymeacoffee.png">](https://www.buymeacoffee.com/jamiemh)
-
-## Quick Links 🔗
-
-[Request Icons](https://github.com/stratumauth/app/issues/new?assignees=&labels=enhancement&template=icon_request.md&title=)
- 
-[Frequently Asked Questions](https://github.com/stratumauth/app/wiki#frequently-asked-questions)
-
-[Contribution Guide](https://github.com/stratumauth/app/blob/master/CONTRIBUTING.md)
-
-[Backup File Format](https://github.com/stratumauth/app/blob/master/doc/BACKUP_FORMAT.md)
-
-### Importing from other apps:
-
-[Google Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Google-Authenticator)
-
-[Blizzard Authenticator](https://github.com/stratumauth/app/wiki/Importing-from-Blizzard-Authenticator)
-
-[Steam](https://github.com/stratumauth/app/wiki/Importing-from-Steam)
-
-[Authy](https://github.com/stratumauth/app/wiki/Importing-from-Authy)
-
-## Features 🪄
-
-⚙️ **Compatibility:** Stratum is compatible with most providers and accounts.
- 
-💾 **Backup / Restore:** Backup your authenticators with strong encryption. In case you lose your or change phone, you can always gain access to your accounts. Save to cloud storage or to your device.
-
-🌙 **Dark Mode:** Stratum has a beautiful material design inspired look in either light or dark themes.
-
-⏺️ **Icons:** Find your authenticators easily with recognisable brand logos and icons next to each code.
-
-📂 **Categories:** Organise your authenticators into categories.
-
-🔒 **Offline with few permissions:** Stratum only requires a single permission and does not require Internet access to function.
-
-🎨 **Customisation:** Set icons and rename. You can also arrange your authenticators in any order you like so you can find them easily.
-
-⌚ **Wear OS:** Quickly view your authenticators directly from your watch. Please note that a connection to your Android device is required.
+> MEDi is currently having a beta testing process
 
 ## Screenshots 📱
 
@@ -68,20 +29,35 @@ It supports TOTP (Time Based) and HOTP (Counter Based) authenticators using eith
 ![Screenshot 8](./doc/screenshot8.png)
 <br/><br/>
 
-### Wear OS Companion
-
-![Screenshot 1](./doc/wearos_screenshot1.png)
-![Screenshot 2](./doc/wearos_screenshot2.png)
-![Screenshot 3](./doc/wearos_screenshot3.png)
-![Screenshot 4](./doc/wearos_screenshot4.png)
-![Screenshot 5](./doc/wearos_screenshot5.png)
-
 ## Permissions 🔒
 
-* Camera permission is required to add accounts through QR codes.
+* Camera permission is required to proceed to the Medication Detection phase.
 
 ## Disclaimer
 
 This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
 
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+<!-- CONTACT -->
+## Contact
+
+Sungjoo Kim - [@linkedin-shield](www.linkedin.com/in/sungjoo-kim-june777) - email@example.com
+
+Ethan Park - [@linkedin-shield](https://www.linkedin.com/in/esjp/) - ethansjpark@gmail.com
+
+Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_username/repo_name](https://github.com/2nd-Company/MEDi)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[product-screenshot]: images/screenshot.png
+[TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
+[TensorFlowLite-url]: https://nextjs.org/](https://ai.google.dev/edge/litert
+[Kotlin]: https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
+[Kotlin-url]: https://kotlinlang.org/
