@@ -67,7 +67,7 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/2nd-Company/MEDi?style=for-the-badge&color=green
 [contributors-url]: https://github.com/2nd-Company/MEDi/contributors
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge 
 [license-url]: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi/blob/main/LICENSE) 
