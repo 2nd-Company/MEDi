@@ -44,7 +44,7 @@ Sungjoo Kim - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.c
 
 Ethan Park - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
 
-Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_username/repo_name](https://github.com/2nd-Company/MEDi)
+Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
