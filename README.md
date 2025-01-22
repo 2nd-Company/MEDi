@@ -42,9 +42,9 @@ Camera permission is required to proceed to the Medication Detection phase.
 <!-- CONTACT -->
 ## Contact
 
-[Sungjoo Kim](https://github.com/junesjukim) - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
+[Sungjoo Kim](https://github.com/junesjukim) - [<img src="./doc/Icon/Linkedin.png" alt="LinkedIn" width="16">](https://www.linkedin.com/in/sungjoo-kim-june777) - junesjukim@gmail.com
 
-[Ethan Park](https://github.com/ethansjpark) - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
+[Ethan Park](https://github.com/ethansjpark) - [<img src="./doc/Icon/Linkedin.png" alt="LinkedIn" width="16">](https://www.linkedin.com/in/esjp/) - ethansjpark@gmail.com
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi)
 
