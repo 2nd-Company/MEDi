@@ -55,6 +55,7 @@ MEDi is currently having a beta testing process.
     </td>
   </tr>
 </table>
+
 <!-- PERMISSIONS -->
 ## Permissions 🔒
 
