@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-<!-- [![Unlicense License][license-shield]][license-url] -->
+![GitHub License](https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge)
 
 <div align="center">
   <img src="./doc/Icon/logo.jpeg" alt="MEDi Logo" width="200">
@@ -47,9 +47,7 @@ MEDi is currently having a beta testing process.
 
 Camera permission is required to proceed to the Medication Detection phase.
 
-<!-- CONTACT -->
-## License
-<!-- CONTACT -->
+
 ## License
 This repository has been created as a part of the ongoing development of the [MEDi](https://github.com/2nd-Company/MEDi) project.
 
