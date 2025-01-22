@@ -20,19 +20,13 @@ MEDi is currently having a beta testing process
 
 ## Screenshots 📱
 
-![Screenshot 1](./doc/Photo/Screenshot1.jpeg)
-![Screenshot 2](./doc/Photo/Screenshot2.jpeg)
-![Screenshot 3](./doc/Photo/Screenshot3.jpeg)
-![Screenshot 4](./doc/Photo/Screenshot4.jpeg)
-![Screenshot 5](./doc/Photo/Screenshot5.jpeg)
-![Screenshot 6](./doc/Photo/Screenshot6.jpeg)
+<img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="300">
+<img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="300">
+<img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="300">
+<img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="300">
+<img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="300">
+<img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="300">
 <br/><br/>
-<img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="100">
-<img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="100">
-<img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="100">
-<img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="100">
-<img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="100">
-<img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="100">
 
 <!-- PERMISSIONS -->
 ## Permissions 🔒
