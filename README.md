@@ -31,7 +31,7 @@ MEDi is currently having a beta testing process.
 
 
 ## Screenshots 📱
-<table align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+<table align="center" style="background-color: #4c4c4c; padding: 20px; border-radius: 10px;">
   <tr>
     <td align="center" style="padding: 10px;">
       <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250">
