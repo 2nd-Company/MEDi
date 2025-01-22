@@ -1,5 +1,5 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/stratumauth/app?style=flat)
-
+[![Contributors][contributors-shield]][contributors-url]
+[![Unlicense License][license-shield]][license-url]
 
 <div align="center">
   <img src="./doc/Icon/logo.jpeg" alt="MEDi Logo" width="200">
@@ -59,6 +59,10 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
+[contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
+[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
+[license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: ./doc/Icon/Linkedin.png
 [github-surl]: https://github.com/junesjukim
 [github-eurl]: https://github.com/ethansjpark
