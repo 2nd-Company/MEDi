@@ -49,9 +49,11 @@ Camera permission is required to proceed to the Medication Detection phase.
 
 <!-- CONTACT -->
 ## License
-This repository has been created as a part of the ongoing development of the MEDi project.
+<!-- CONTACT -->
+## License
+This repository has been created as a part of the ongoing development of the [MEDi](https://github.com/2nd-Company/MEDi) project.
 
-The work in this repository is licensed under the MIT license.
+The work in this repository is licensed under the [MIT](https://github.com/2nd-Company/MEDi/blob/main/LICENSE) license.
 
 Copyright (c) 2025 2nd Company
 
