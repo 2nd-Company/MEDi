@@ -40,9 +40,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 <!-- CONTACT -->
 ## Contact
 
-Sungjoo Kim - [![linkedin-shield]][www.linkedin.com/in/sungjoo-kim-june777] - email@example.com
+Sungjoo Kim - [![linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
 
-Ethan Park - [![linkedin-shield]][https://www.linkedin.com/in/esjp/] - ethansjpark@gmail.com
+Ethan Park - [![linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_username/repo_name](https://github.com/2nd-Company/MEDi)
 
@@ -52,6 +52,8 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_user
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: (./doc/Icon/Linkedin.png)
+[linkedin-surl]: https:// www.linkedin.com/in/sungjoo-kim-june777
+[linkedin-eurl]: https://www.linkedin.com/in/esjp/
 [TensorFlow]: https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white
 [TensorFlowLite-url]: https://nextjs.org/](https://ai.google.dev/edge/litert
 [Kotlin]: https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white
