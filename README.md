@@ -23,12 +23,10 @@ MEDi is currently having a beta testing process
 <div align="center">
   <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="300">
   <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="300">
-</div>
-<div align="center">
   <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="300">
-  <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="300">
 </div>
 <div align="center">
+  <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="300">
   <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="300">
   <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="300">
 </div>
