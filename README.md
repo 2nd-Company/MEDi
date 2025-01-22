@@ -31,30 +31,32 @@ MEDi is currently having a beta testing process.
 
 
 ## Screenshots 📱
-<table align="center" style="background-color: #525252; padding: 20px; border-radius: 10px;">
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250">
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250">
-    </td>
-    <td align="center" style="padding: 10px;">
-      <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250">
-    </td>
-  </tr>
-</table>
+<div align="center" style="background-color: #525252; padding: 20px; border-radius: 10px;">
+  <table>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250">
+      </td>
+    </tr>
+    <tr>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250">
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250">
+      </td>
+    </tr>
+  </table>
+</div>
 
 <!-- PERMISSIONS -->
 ## Permissions 🔒
