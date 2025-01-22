@@ -1,5 +1,5 @@
 [![Contributors][contributors-shield]][contributors-url]
-![GitHub License](https://github.com/2nd-Company/MEDi/blob/main/LICENSE)
+[![GitHub License][license-shield]][license-url]
 
 
 
@@ -72,7 +72,7 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 [contributors-shield]: https://img.shields.io/github/contributors/2nd-Company/MEDi?style=for-the-badge&color=green
 [contributors-url]: https://github.com/2nd-Company/MEDi/contributors
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge 
-[license-url]: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi/blob/main/LICENSE) 
+[license-url]: https://github.com/2nd-Company/MEDi/blob/main/LICENSE 
 [linkedin-shield]: ./doc/Icon/Linkedin.png
 [github-surl]: https://github.com/junesjukim
 [github-eurl]: https://github.com/ethansjpark
