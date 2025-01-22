@@ -1,5 +1,6 @@
 [![Contributors][contributors-shield]][contributors-url]
-![GitHub License](https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge)
+![GitHub License](https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge&link=https%3A%2F%2Fgithub.com%2F2nd-Company%2FMEDi%2Fblob%2Fmain%2FLICENSE)
+
 
 <div align="center">
   <img src="./doc/Icon/logo.jpeg" alt="MEDi Logo" width="200">
