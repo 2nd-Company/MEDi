@@ -23,7 +23,7 @@ The **MEDi**  team is constantly striving to improve and develop the platform, s
 * [![Kotlin-l][Kotlin]][Kotlin-url]
 
 ## Download ⬇️
-[<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">]([https://play.google.com/store/apps/details?id=com.stratumauth.app](https://play.google.com/apps/testing/com.MedI))
+[<img alt="Get it on Google Play" height="100" src="./doc/googleplay.png">](https://play.google.com/apps/testing/com.MedI)
 
 MEDi is currently having a beta testing process.
 
