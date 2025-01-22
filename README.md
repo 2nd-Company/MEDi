@@ -40,9 +40,9 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 <!-- CONTACT -->
 ## Contact
 
-Sungjoo Kim - [linkedin-shield](www.linkedin.com/in/sungjoo-kim-june777) - email@example.com
+Sungjoo Kim - ![linkedin-shield](www.linkedin.com/in/sungjoo-kim-june777) - email@example.com
 
-Ethan Park - [linkedin-shield](https://www.linkedin.com/in/esjp/) - ethansjpark@gmail.com
+Ethan Park - ![linkedin-shield](https://www.linkedin.com/in/esjp/) - ethansjpark@gmail.com
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_username/repo_name](https://github.com/2nd-Company/MEDi)
 
