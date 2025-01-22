@@ -48,8 +48,6 @@ Camera permission is required to proceed to the Medication Detection phase.
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Company/MEDi)
 
-https://github.com/junesjukim
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [linkedin-shield]: ./doc/Icon/Linkedin.png
