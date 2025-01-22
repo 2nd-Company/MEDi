@@ -19,14 +19,12 @@
 
 ## Screenshots 📱
 
-![Screenshot 1](./doc/Photo/Screenshot1.png)
-![Screenshot 2](./doc/Photo/Screenshot2.png)
-![Screenshot 3](./doc/Photo/Screenshot3.png)
-![Screenshot 4](./doc/Photo/Screenshot4.png)
-![Screenshot 5](./doc/Photo/Screenshot5.png)
-![Screenshot 6](./doc/Photo/Screenshot6.png)
-![Screenshot 7](./doc/Photo/Screenshot7.png)
-![Screenshot 8](./doc/Photo/Screenshot8.png)
+![Screenshot 1](./doc/Photo/Screenshot1.jepg)
+![Screenshot 2](./doc/Photo/Screenshot2.jepg)
+![Screenshot 3](./doc/Photo/Screenshot3.jepg)
+![Screenshot 4](./doc/Photo/Screenshot4.jepg)
+![Screenshot 5](./doc/Photo/Screenshot5.jepg)
+![Screenshot 6](./doc/Photo/Screenshot6.jepg)
 <br/><br/>
 
 ## Permissions 🔒
