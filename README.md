@@ -29,7 +29,7 @@ MEDi is currently having a beta testing process
 
 ## Permissions 🔒
 
-* Camera permission is required to proceed to the Medication Detection phase.
+Camera permission is required to proceed to the Medication Detection phase.
 
 ## Disclaimer
 
