@@ -10,13 +10,13 @@
 <p align="center"><em>Using smart AI tech to make medication detection simple and accurate</em></p>
 
 ## About the Project
-Hello, we are a startup named 2nd Company, creating an AI-driven platform designed to assist visually impaired individuals in safely and efficiently identifying pharmaceutical products in stores.
+Hello, we are a startup named **2nd Company**, creating an AI-driven platform designed to assist visually impaired individuals in safely and efficiently identifying pharmaceutical products in stores.
 
 To prevent medication misuse and help users, we developed a way to guide pharmaceutical shopping effectively. In February 2025, we launched a platform called MEDi. 
 
-MEDi provides step-by-step shopping guide agents by utilizing hand-tracking and object detection rather than broad assistance. For added convenience, we also offer audible recognition features, enabling users to navigate their shopping experience with ease and confidence.
+**MEDi** provides step-by-step shopping guide agents by utilizing hand-tracking and object detection rather than broad assistance. For added convenience, we also offer audible recognition features, enabling users to navigate their shopping experience with ease and confidence.
 
-The MEDi team is constantly striving to improve and develop the platform, setting goals to provide accurate information and a user-friendly UI/UX. We are deeply committed to continually enhancing the environment for people who often remain in the shadows, ensuring they have access to tools that empower their daily lives.
+The **MEDi**  team is constantly striving to improve and develop the platform, setting goals to provide accurate information and a user-friendly UI/UX. We are deeply committed to continually enhancing the environment for people who often remain in the shadows, ensuring they have access to tools that empower their daily lives.
 
 ### Built With
 * [![TensorFlow Lite][TensorFlow]][TensorFlowLite-url]
