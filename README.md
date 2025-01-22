@@ -39,9 +39,7 @@ This program is distributed in the hope that it will be useful, but WITHOUT ANY 
 
 <!-- CONTACT -->
 ## Contact
-Sungjoo Kim - [![Linkedin][linkedin-shield]][linkedin-surl] - junesjukim@gmail.com
 
-Ethan Park - [![Linkedin][linkedin-shield]][linkedin-eurl] - ethansjpark@gmail.com
 
 Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/your_username/repo_name](https://github.com/2nd-Company/MEDi)
 
