@@ -31,17 +31,30 @@ MEDi is currently having a beta testing process.
 
 
 ## Screenshots 📱
-<div align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
-  <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250" style="margin: 10px;">
-  <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250" style="margin: 10px;">
-  <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250" style="margin: 10px;">
-</div>
-<div align="center" style="background-color: #f5f5f5; padding: 20px; margin-top: 10px; border-radius: 10px;">
-  <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250" style="margin: 10px;">
-  <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250" style="margin: 10px;">
-  <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250" style="margin: 10px;">
-</div>
-<br/><br/>
+<table align="center" style="background-color: #f5f5f5; padding: 20px; border-radius: 10px;">
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot1.jpeg" alt="Screenshot 1" width="250">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot2.jpeg" alt="Screenshot 2" width="250">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot3.jpeg" alt="Screenshot 3" width="250">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot4.jpeg" alt="Screenshot 4" width="250">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot5.jpeg" alt="Screenshot 5" width="250">
+    </td>
+    <td align="center" style="padding: 10px;">
+      <img src="./doc/Photo/Screenshot6.jpeg" alt="Screenshot 6" width="250">
+    </td>
+  </tr>
+</table>
 
 <!-- PERMISSIONS -->
 ## Permissions 🔒
@@ -68,7 +81,6 @@ Project Link: [https://github.com/2nd-Company/MEDi](https://github.com/2nd-Compa
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- [GitHub License]: https://img.shields.io/github/license/2nd-Company/MEDi?style=for-the-badge -->
 [contributors-shield]: https://img.shields.io/github/contributors/2nd-Company/MEDi?style=for-the-badge&color=green
 [contributors-url]: https://github.com/2nd-Company/MEDi/contributors
 [license-shield]: https://img.shields.io/github/license/2nd-Company/Medi?style=for-the-badge
