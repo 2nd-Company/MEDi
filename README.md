@@ -5,7 +5,7 @@
   <img src="./doc/Icon/logo.jpeg" alt="MEDi Logo" width="200">
 </div>
 <div align="center">
-  <h1>MEDi</h1>
+  <h2>MEDi</h2>
 </div>
 <br/><br/>
 
